@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Sample Task",
+      "description": "Sample description for this task.",
+      "category": "Development",
+      "startDate": "2024-11-18",
+      "endDate": "2024-11-25"
+    },
+    {
+      "id": 2,
+      "title": "Another Task",
+      "description": "This is another task to do.",
+      "category": "Design",
+      "startDate": "2024-11-19",
+      "endDate": "2024-11-28"
+    }
+  ]
+}
